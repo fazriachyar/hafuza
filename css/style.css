@@ -187,7 +187,8 @@ figure {
   color: #fff;
   font-weight: 400; }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .price {
-  color: #61cbc3; }
+  font-size: 30px;
+  color: #25D366; }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner p {
   font-size: 18px;
   color: rgba(255, 255, 255, 0.9); }
@@ -227,6 +228,7 @@ figure {
   background: none;
   font-weight: 700; }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .desc .details span {
+  font-size: 16px;
   display: block; }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .heading-title {
   font-size: 60px; }
@@ -672,7 +674,7 @@ div.cs-select span {
   display: inline-block;
   font-weight: 400;
   color: #fff;
-  background: #61cbc3;
+  background: #25D366;
   padding: 5px 10px;
   margin-bottom: 10px; }
 
@@ -687,7 +689,7 @@ div.cs-select span {
   display: inline-block;
   font-weight: 400;
   margin-bottom: 10px;
-  color: #61cbc3; }
+  color: #25D366; }
 .property .property-details .address {
   border-top: 1px solid rgba(0, 0, 0, 0.05);
   display: block;
